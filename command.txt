@@ -1,0 +1,4 @@
+ngrok.exe config add-authtoken 2gQUbJXZ0D6dMJaXuoqf3u6ZdLa_3YV5S1ABqKhm9umDf3FT4
+C:\Users\vsevo\Downloads\ngrok-v3-stable-windows-amd64
+ngrok http http://localhost:8080
+https://760c-85-240-119-67.ngrok-free.app -> http://localhost:8080   
